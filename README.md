@@ -1,1 +1,1 @@
-hello
+This is a simple binary tree class.
